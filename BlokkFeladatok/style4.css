@@ -1,0 +1,16 @@
+ul
+{
+padding: 1cm 0 0 0;
+border: dotted green 20px;
+width: fit-content;
+height: 2cm;
+
+}
+
+li
+{
+list-style: none;
+background-color: lightseagreen;
+padding: 3mm;
+height: 1cm;
+}
